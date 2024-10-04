@@ -1,10 +1,24 @@
 :root {
-    --accent-color: #e18240;
-    --text-color: #000;
-    --background-color: ##FCFCFC;
-    --title-color: ##DF803E;
+    --background-color-orange: rgba(222, 116, 43, 0.90);
+    --font-color-black: #000;
+    --btn-color-white: #FCFCFC;
+    --title-color-orange: #DF803E;
 }
 
-body {
-    
+.container {
+    width: 1678px;
+    padding: 0 15px; 
+    margin: 0 auto;
 }
+
+
+body {
+    font-family: "Bookman Old Style";
+}
+
+/*
+font-family: "Playfair Display", serif;
+font-family: "Inter", sans-serif;
+font-family: "Roboto", sans-serif;
+font-family: "Julius Sans One", sans-serif;
+*/
