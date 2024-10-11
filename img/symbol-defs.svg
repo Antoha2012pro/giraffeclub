@@ -1,0 +1,31 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-telefon" viewBox="0 0 32 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M13.467 8.087c0.578 0.608 0 1.637-0.361 2.076l-1.408 1.327c-0.761 0.717-0.984 1.855-0.433 2.745 1.945 3.143 4.624 5.16 6.536 6.199 0.851 0.463 1.873 0.199 2.543-0.5 0.551-0.575 1.147-1.176 1.541-1.516 0.576-0.498 1.307-0.35 1.76-0.14 0.175 0.081 0.319 0.212 0.45 0.354 0.975 1.062 2.856 3.083 3.936 4.142 0.967 0.948 0.847 1.656 0.58 2.010-0.095 0.126-0.22 0.226-0.329 0.34-0.397 0.413-1.219 1.219-2.317 2.157-1.601 1.367-2.892 1.519-3.718 1.519s-3.822-0.405-7.643-3.14c-3.822-2.735-7.643-6.837-8.882-9.166s-2.117-4.153-2.376-6.33c-0.207-1.742-0.31-2.076 0.516-3.444 0.597-0.988 2.438-2.451 3.099-3.14 0.576-0.6 1.402-0.373 1.879-0.114 0.128 0.070 0.238 0.166 0.341 0.269 1.29 1.301 3.732 3.769 4.288 4.352z"></path>
+</symbol>
+<symbol id="icon-location" viewBox="0 0 32 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M24.7 9.782c0 1.933-1 4.812-2.522 8.104-1.504 3.253-3.45 6.772-5.217 9.941-0.323 0.579-1.307 0.589-1.643-0.094-0.769-1.561-1.663-3.227-2.565-4.902l-0.104-0.194c-0.869-1.616-1.742-3.238-2.527-4.801-0.816-1.627-1.528-3.173-2.034-4.561-0.51-1.4-0.789-2.58-0.789-3.493 0-4.477 3.852-8.182 8.7-8.182s8.7 3.705 8.7 8.182z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M19.2 10.4c0 1.767-1.433 3.2-3.2 3.2s-3.2-1.433-3.2-3.2c0-1.767 1.433-3.2 3.2-3.2s3.2 1.433 3.2 3.2z"></path>
+</symbol>
+<symbol id="icon-email" viewBox="0 0 35 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M4.434 4.941h25.6c1.325 0 2.4 1.075 2.4 2.4v19.2c0 1.325-1.075 2.4-2.4 2.4h-25.6c-1.325 0-2.4-1.075-2.4-2.4v-19.2c0-1.325 1.075-2.4 2.4-2.4z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M18.889 17.431c-0.786 0.501-1.792 0.501-2.578 0l-12.573-8.006c-2.025-1.289-1.112-4.424 1.289-4.424h25.146c2.401 0 3.314 3.135 1.289 4.424l-12.573 8.006z"></path>
+</symbol>
+<symbol id="icon-facebook" viewBox="0 0 33 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.4615" d="M20.56 21.684v9.085h6.36c3.425 0 4.403-2.683 4.464-4.024-0.061-6.016-0.208-18.731-0.306-21.463s-2.161-3.821-3.18-4.024c-6.238-0.020-19.435-0.049-22.322 0s-3.69 2.703-3.731 4.024v21.463c0 2.732 2.487 3.821 3.731 4.024h9.296v-9.085h-3.547v-5.61h3.547v-3.963c0.44-4.097 3.771-5.162 5.382-5.183h5.443v5.671h-5.137v3.476h5.137l-0.978 5.61h-4.159z"></path>
+</symbol>
+<symbol id="icon-instagram" viewBox="0 0 33 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.4615" d="M9.231 1.231h14.769c4.078 0 7.385 3.306 7.385 7.385v14.769c0 4.078-3.306 7.385-7.385 7.385h-14.769c-4.078 0-7.385-3.306-7.385-7.385v-14.769c0-4.078 3.306-7.385 7.385-7.385z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.4615" d="M24.6 15.999c0 4.41-3.575 7.985-7.985 7.985s-7.985-3.575-7.985-7.985c0-4.41 3.575-7.985 7.985-7.985s7.985 3.575 7.985 7.985z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.4615" d="M27.302 7.025c0 0.978-0.793 1.771-1.771 1.771s-1.771-0.793-1.771-1.771c0-0.978 0.793-1.771 1.771-1.771s1.771 0.793 1.771 1.771z"></path>
+</symbol>
+<symbol id="icon-btn-left" viewBox="0 0 32 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6038" d="M16 0.302c8.67 0 15.698 7.028 15.698 15.698s-7.028 15.698-15.698 15.698c-8.67 0-15.698-7.028-15.698-15.698s7.028-15.698 15.698-15.698z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6038" d="M6.943 16h18.113M25.057 16l-6.943-6.943M25.057 16l-6.943 6.943"></path>
+</symbol>
+<symbol id="icon-btn-right" viewBox="0 0 32 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6038" d="M16 31.698c-8.67 0-15.698-7.028-15.698-15.698s7.028-15.698 15.698-15.698c8.67 0 15.698 7.028 15.698 15.698s-7.028 15.698-15.698 15.698z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6038" d="M25.057 16h-18.113M6.943 16l6.943 6.943M6.943 16l6.943-6.943"></path>
+</symbol>
+</defs>
+</svg>

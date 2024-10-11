@@ -14,6 +14,8 @@
 
 body {
     font-family: "Bookman Old Style";
+    background-color: var(--title-color-orange);
+    position: relative;
 }
 
 /*
@@ -22,3 +24,48 @@ font-family: "Inter", sans-serif;
 font-family: "Roboto", sans-serif;
 font-family: "Julius Sans One", sans-serif;
 */
+
+.header {
+    padding: 40px 0px 33px 0px;
+    border-bottom: 1px solid var(--btn-color-white);
+    position: relative;
+}
+
+.header > .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-items {
+    display: flex;
+    gap: 13px;
+}
+
+.header-item {
+    
+}
+
+.header-link {
+    color: var(--font-color-black);
+    text-align: center;
+    font-size: 26px;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.header-list {
+    display: flex;
+    gap: 24px; 
+}
+
+.header-img {
+    width: 40px;
+    height: 40px;
+}
+
+.img-polygon {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
