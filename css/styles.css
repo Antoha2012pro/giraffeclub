@@ -159,28 +159,29 @@ font-family: "Julius Sans One", sans-serif;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    /* align-content: space-between; */
     padding: 53px 59px;
     border-radius: 20px;
     border: 2px solid var(--font-color-black);
 }
 
-.lider-items < .lider-item:nth-child(2) {
+.lider-items > .lider-item:nth-child(2) {
     padding: 53px 21px;
 }
 
-.lider-items < .lider-item:nth-child(3) {
-    padding: 44px 92 px;
+.lider-items > .lider-item:nth-child(3) {
+    padding: 44px 92px 53px 92px;
 }
 
-.lider-items < .lider-item:nth-child(4) {
-    padding: 55px 11 px;
+.lider-items > .lider-item:nth-child(4) {
+    padding: 55px 11px 53px 11px;
 }
 
-.lider-items < .lider-item:nth-child(5) {
+.lider-items > .lider-item:nth-child(5) {
     padding: 56px 9px;
 }
 
-.lider-items < .lider-item:nth-child(6 ) {
+.lider-items > .lider-item:nth-child(6) {
     padding: 56px 9px;
 }
 
@@ -190,6 +191,10 @@ font-family: "Julius Sans One", sans-serif;
     font-size: 34px;
     font-weight: 300;
     line-height: 130%;
+}
+
+.lider-items > .lider-item:nth-child(2) > .lider-text {
+    width: 290px;
 }
 
 .find {
